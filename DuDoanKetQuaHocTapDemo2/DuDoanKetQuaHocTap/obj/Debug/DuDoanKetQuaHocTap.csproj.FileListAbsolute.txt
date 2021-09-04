@@ -1,0 +1,144 @@
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe.config
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.pdb
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csprojAssemblyReference.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Properties.Resources.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.GenerateResource.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.exe
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.pdb
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.DuDoan.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTap\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormMain.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe.config
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.pdb
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csprojAssemblyReference.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.DuDoan.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormMain.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Properties.Resources.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.GenerateResource.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.exe
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.pdb
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormGioiThieu.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormLuat.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo1\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormKetQua.resources
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe.config
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.pdb
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csprojAssemblyReference.cache
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.DuDoan.resources
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormGioiThieu.resources
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormKetQua.resources
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormLuat.resources
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormMain.resources
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Properties.Resources.resources
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.GenerateResource.cache
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.exe
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.pdb
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_Error.resources
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DoThi.resources
+D:\window form\project\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DuLieu.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe.config
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.pdb
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csprojAssemblyReference.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.DuDoan.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_Error.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormGioiThieu.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormKetQua.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormLuat.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormMain.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DoThi.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DuLieu.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Properties.Resources.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.GenerateResource.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.exe
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.pdb
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe.config
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.pdb
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csprojAssemblyReference.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.DuDoan.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_Error.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormGioiThieu.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormKetQua.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormLuat.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormMain.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DoThi.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DuLieu.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Properties.Resources.resources
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.GenerateResource.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.exe
+D:\HocOnl\ky_6\He_chuyen_gia\BTL\DuDoanKetQuaHocTapDemo4\DuDoanKetQuaHocTapDemo3\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.pdb
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe.config
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.pdb
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csprojAssemblyReference.cache
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.DuDoan.resources
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_Error.resources
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormGioiThieu.resources
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormKetQua.resources
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormLuat.resources
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormMain.resources
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DoThi.resources
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DuLieu.resources
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Properties.Resources.resources
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.GenerateResource.cache
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.exe
+D:\window form\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.pdb
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe.config
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.pdb
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csprojAssemblyReference.cache
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.DuDoan.resources
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_Error.resources
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormGioiThieu.resources
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormKetQua.resources
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormLuat.resources
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormMain.resources
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DoThi.resources
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DuLieu.resources
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Properties.Resources.resources
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.GenerateResource.cache
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.exe
+D:\window form\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo5\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.pdb
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe.config
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.pdb
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csprojAssemblyReference.cache
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.DuDoan.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_Error.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormGioiThieu.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormKetQua.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormLuat.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormMain.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DoThi.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DuLieu.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Properties.Resources.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.GenerateResource.cache
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.CoreCompileInputs.cache
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.exe
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTapDemo6\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.pdb
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe.config
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.exe
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\bin\Debug\DuDoanKetQuaHocTap.pdb
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csprojAssemblyReference.cache
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.DuDoan.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_Error.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormGioiThieu.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormKetQua.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormLuat.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.FormMain.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DoThi.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Form_DuLieu.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.Properties.Resources.resources
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.GenerateResource.cache
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.csproj.CoreCompileInputs.cache
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.exe
+E:\Đại Học\DH-năm 3\DH 3.2\Hệ chuyên gia\DuDoanKetQuaHocTap-final\DuDoanKetQuaHocTapDemo2\DuDoanKetQuaHocTap\obj\Debug\DuDoanKetQuaHocTap.pdb
